@@ -6,3 +6,5 @@ based on the deploy script from snipa22
 ```wget -qO- https://raw.githubusercontent.com/RafalSladek/install_pool/master/install_basic.sh | bash```
 
 ```wget -qO- https://raw.githubusercontent.com/RafalSladek/install_pool/master/install_nvm.sh | bash```
+
+```wget -qO- https://raw.githubusercontent.com/RafalSladek/install_pool/master/install_node.sh | bash```
