@@ -15,3 +15,6 @@ based on the deploy script from snipa22
 
 4. install datadog
 ```wget -qO- https://raw.githubusercontent.com/RafalSladek/install_pool/master/install_datadog.sh | bash```
+
+5. add pool user
+```wget -qO- https://raw.githubusercontent.com/RafalSladek/install_pool/master/add_user.sh | bash```
